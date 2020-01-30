@@ -1,6 +1,10 @@
 body {
-    background-color: orange
+    background-color: orange;
     font-family: 'Roboto', sans-serif;
+}
+
+nav {
+    margin-top: 50px; 
 }
 
 .container {
@@ -40,5 +44,10 @@ header h2 {
 .upload-button:hover {
     background-color: white;
     color: rgb(0, 73, 0);
+}
+
+
+.h2 {
+    margin-bottom: 200px; 
 }
 
