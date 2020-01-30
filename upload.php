@@ -11,8 +11,8 @@
 <body>
     <div class="container">
         <header>
-            <h1 class="heading">Animal Gallery</h1>
-            <h2 class="heading">Cute animals</h2>
+            <h1 class="heading">Emblems</h1>
+            <h2 class="heading">Emblems car</h2> 
         </header>
         <form action="postImage.php" method="post" enctype="multipart/form-data" class="upload-image-form">
             <div>
@@ -26,4 +26,4 @@
         </form>
     </div>
 </body>
-</html>
+</html>    

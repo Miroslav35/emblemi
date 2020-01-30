@@ -1,2 +1,2 @@
-# animal-galery
-Web programming course project 
+# emblems
+Web programming course project   
