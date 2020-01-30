@@ -4,11 +4,11 @@ body {
 }
 
 nav {
-    margin-top: 50px; 
+    margin-top: 100px; 
 }
 
 .container {
-    width: 980px;
+    width: 900px;  
     margin: auto;
 }
 
@@ -27,7 +27,7 @@ header h2 {
 }
 
 .gallery img {
-    width: 480px;
+    width: 470px;
 }
 
 .upload-button {
